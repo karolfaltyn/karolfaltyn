@@ -1,3 +1,4 @@
+[![An image of @karolfaltyn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karolfaltyn)](https://holopin.io/@karolfaltyn)
 ### Hello there
 
 #### I am a passionate frontend developer.
