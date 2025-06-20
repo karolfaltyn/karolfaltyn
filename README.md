@@ -5,7 +5,7 @@
 I'm a passionate front-end developer who loves exploring new tools and staying up-to-date with the latest web technologies.
 
 ✨ Check out my [website](https://karolfaltyn.github.io/) to learn more and connect with me. 
- 📌 Front-End Developer at [WMS_DEV](https://wmsdev.pl/) - a student organization focused on software development.
+📌 Front-End Developer at [WMS_DEV](https://wmsdev.pl/) - a student organization focused on software development.
 
 ---
 
